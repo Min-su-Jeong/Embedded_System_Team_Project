@@ -169,23 +169,23 @@
 
 ## 최종 결과물✔
    > <h3>전체 시스템 구조<h3/>
-   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74342121/208481008-8fb6176a-d10d-492e-9386-f9585d452fa2.gif" width="500" height="280">
-    <img src="https://user-images.githubusercontent.com/74342121/208481518-4072ca84-0cbe-4329-994a-da458d95c63f.gif" width="500" height="280">
+   <p align="left">
+    <img src="https://user-images.githubusercontent.com/74342121/208481008-8fb6176a-d10d-492e-9386-f9585d452fa2.gif" width="400" height="250">
+    <img src="https://user-images.githubusercontent.com/74342121/208481518-4072ca84-0cbe-4329-994a-da458d95c63f.gif" width="400" height="250">
    </p>
    
    <br/>
    
    > <h3>기술 활용도<h3/>
    <p align="left">
-    <img src="https://user-images.githubusercontent.com/74342121/208481029-1bb09485-3889-40d0-88be-04763d14713c.png" width="500" height="280">
+    <img src="https://user-images.githubusercontent.com/74342121/208481029-1bb09485-3889-40d0-88be-04763d14713c.png" width="420" height="220">
    </p>
    
    <br/>
 
    > <h3>최종 결과물<h3/>
-   <p align="center">
-    <img align="center" width="400" height="280" src="https://user-images.githubusercontent.com/74342121/208485371-dd895ef2-83a1-49b0-8f45-906f18a3bf55.jpg">&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp;&nbsp;<img align="center" width="500" height="280" src="https://user-images.githubusercontent.com/74342121/208481035-2bb37f4b-4c2a-40fe-9f88-81a7867859f4.png">
+   <p align="left">
+    <img align="center" width="380" height="230" src="https://user-images.githubusercontent.com/74342121/208485371-dd895ef2-83a1-49b0-8f45-906f18a3bf55.jpg">&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp;&nbsp;<img align="center" width="380" height="230" src="https://user-images.githubusercontent.com/74342121/208481035-2bb37f4b-4c2a-40fe-9f88-81a7867859f4.png">
    </p>
    
 
