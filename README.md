@@ -112,6 +112,12 @@
 
 </br>
 
+## 6. 최종 데모 준비✔
+- 최종 데모 준비 날짜/시간 : 2022.12.19(월) / 20:00~20:30
+- 수행 내용 : 선 연결 재확인 및 센서 동작 여부 테스트
+
+</br>
+
 ## 최종 정리✔
    > <h3>1. 일정 및 준비 사항<h3/>
   ```
@@ -122,7 +128,7 @@
   - ✅ 샘플 코드 수집 및 회로도 조사 & 프로젝트 메인 코드 구현
   - ✅ 데모 영상 촬영 및 편집
   - ✅ 최종 발표 자료 준비
-  - 최종 데모 준비
+  - ✅ 최종 데모 준비
   ```
   
    > <h3>2. 주제<h3/>
@@ -155,4 +161,38 @@
   - ADC 활용 : 조도 센서를 사용하여 각 건물별 차량 주차 여부 확인
   - 직렬 통신 활용 : UART(Bluetooth) 통신을 통한 각 건물별 실시간 남은 주차자리 수 확인
   - 통신 사용 : 라즈베리파이(Raspberry Pi) - 스마트폰(Smart Phone) -> UART(Bluetooth)
+  
+  ⭐ 조도 센서 + 초음파 센서 사용 : 밤낮 상관없이 주차 여부 판단 가능 -> 주차 인식에 대한 안정성 향상
   ```
+
+</br>
+
+## 최종 결과물✔
+   > <h3>전체 시스템 구조<h3/>
+   <p align="center">
+    <img src="https://user-images.githubusercontent.com/74342121/208481008-8fb6176a-d10d-492e-9386-f9585d452fa2.gif" width="500" height="280">
+    <img src="https://user-images.githubusercontent.com/74342121/208481518-4072ca84-0cbe-4329-994a-da458d95c63f.gif" width="500" height="280">
+   </p>
+   
+   <br/>
+   
+   > <h3>기술 활용도<h3/>
+   <p align="left">
+    <img src="https://user-images.githubusercontent.com/74342121/208481029-1bb09485-3889-40d0-88be-04763d14713c.png" width="500" height="280">
+   </p>
+   
+   <br/>
+
+   > <h3>최종 결과물<h3/>
+   <p align="center">
+    <img align="center" width="400" height="280" src="https://user-images.githubusercontent.com/74342121/208485371-dd895ef2-83a1-49b0-8f45-906f18a3bf55.jpg">&nbsp;&nbsp;&nbsp;👉&nbsp;&nbsp;&nbsp;<img align="center" width="500" height="280" src="https://user-images.githubusercontent.com/74342121/208481035-2bb37f4b-4c2a-40fe-9f88-81a7867859f4.png">
+   </p>
+   
+
+
+   
+   
+   
+   
+   
+   
